@@ -8,3 +8,4 @@
 
 2，<a href="http://www.androidblog.cn" target="_blank">Android Blog 周刊</a>
 
+3，<a href="http://baidu.com/" target="_blank">Hello, world!</a>
