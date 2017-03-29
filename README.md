@@ -5,11 +5,35 @@
 
 ##【目录】
 ----
-* [Exynap](#0) <br />
-* [android-butterknife-zeleznyandroid-butterknife-zelezny](#1) <br />
+* [一些学习网站](#0) <br />
+* [设计模式](#1) <br />
+* [多人推荐的开源项目](#2) <br />
+* [爬虫](#3) <br />
+* [内存相关](#4) <br />
+* [滑动或嵌套相关](#5) <br />
+* [线程相关](#6) <br />
+* [相机或图片相关](#7) <br />
+* [fragment相关](#8) <br />
+* [数据存储相关](#9) <br />
+* [权限相关](#10) <br />
+* [Material Design相关](#11) <br />
+* [RecyclerView相关](#12) <br />
+* [自定义View相关](#13) <br />
+* [地图相关](#14) <br />
+* [网络相关](#15) <br />
+* [多线程与断点下载相关](#16) <br />
+* [图表Chart相关](#17) <br />
+* [WebView相关](#18) <br />
+* [Service与AIDL相关](#19) <br />
+* [Socket相关](#20) <br />
+* [RxJava与Retorfit相关](#21) <br />
+* [增量与热修复相关](#22) <br />
+* [Gradle相关](#23) <br />
+* [优化相关](#24) <br />
+* [Kotlin相关](#25) <br />
 
-一些学习网站
--------
+<h2 name="0">一些学习网站</h2> 
+
 1，[Google官方中文开发者网站](https://developer.android.google.cn/index.html)
 
 2，[Android Blog 周刊](http://www.androidblog.cn/)
@@ -23,8 +47,8 @@
 6，[Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 
 
-设计模式
--------
+<h2 name="1">设计模式</h2> 
+
 1，[Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
 
 2，[Java设计模式—单例设计模式](http://blog.csdn.net/dmk877/article/details/50311791)
@@ -39,22 +63,22 @@
 
 
 
-多人推荐的开源项目
--------
+<h2 name="2">多人推荐的开源项目</h2> 
+
 1，[GitHub 上都有哪些值得关注学习的 Android项目？](https://www.zhihu.com/question/23804819)
 
 2，[15 个 Android 通用流行框架大全](http://blog.csdn.net/lsw305264677/article/details/51348564)
 
 
-<h3 name="0">爬虫</h3> 
--------
+<h2 name="3">爬虫</h2> 
+
 1，[使用JSOUP实现网络爬虫](http://blog.csdn.net/withiter/article/details/14229819)
 
 2，[使用HttpClient和Jsoup快捷抓取和分析页面](http://www.oschina.net/question/564772_124359)
 
 
-内存相关
--------
+<h2 name="4">内存相关</h2> 
+
 1，[常见的内存泄漏问题及解决办法](https://buluo.qq.com/p/detail.html?bid=234589&pid=7718622-1457172424)
 
 2，[LeakCanary](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
@@ -65,8 +89,8 @@
 
 
 
-滑动或嵌套相关
--------
+<h2 name="5">滑动或嵌套相关</h2> 
+
 1，[ScrollView嵌套Listview/RecyclerView内容显示不全](http://blog.csdn.net/u013121097/article/details/52044997)
 
 2，[ViewPager，ScrollView 嵌套ViewPager滑动冲突解决](http://blog.csdn.net/gdutxiaoxu/article/details/52939127)
@@ -77,16 +101,16 @@
 
 
 
-线程相关
--------
+<h2 name="6">线程相关</h2> 
+
 1，[Android线程池使用终结版](http://www.xuanyusong.com/archives/2439)
 
 2，[Android 中如何关闭线程](http://blog.csdn.net/dreamtdp/article/details/10434217)
 
 
 
-相机或图片相关
--------
+<h2 name="7">相机或图片相关</h2> 
+
 1，[android图片显示的方向问题](http://blog.csdn.net/scyatcs/article/details/44102207)
 
 2，[Android自定义照相机实现（拍照、保存到SD卡，利用Bundle在Acitivity交换数据）](http://blog.csdn.net/wwj_748/article/details/8927784)
@@ -97,8 +121,9 @@
 
 
 
-fragment相关
--------
+
+<h2 name="8">fragment相关</h2> 
+
 1，[Fragment全解析](http://android.jobbole.com/83072/)
 
 2，[Android项目Tab类型主界面大总结 Fragment+TabPageIndicator+ViewPager](http://blog.csdn.net/lmj623565791/article/details/24740977)
@@ -111,8 +136,9 @@ fragment相关
 
 
 
-数据存储相关
--------
+
+<h2 name="9">数据存储相关</h2> 
+
 1，[Android中的5种数据存储方式](http://www.cnblogs.com/cmduan/archive/2012/03/06/2382006.html)
 
 2，[Android SAF介绍以及SD Card的访问实例](http://zhixinliu.com/2015/02/24/2015-02-24-SAF-and-client-code/)
@@ -131,8 +157,9 @@ fragment相关
 
 
 
-权限相关
--------
+
+<h2 name="10">权限相关</h2> 
+
 1，[Android 6.0 - 动态权限管理的解决方案](http://www.jianshu.com/p/dbe4d37731e6)
 
 2，[MPermissions](https://github.com/hongyangAndroid/MPermissions)
@@ -141,8 +168,9 @@ fragment相关
 
 
 
-Material Design相关
--------
+
+<h2 name="11">Material Design相关</h2> 
+
 1，[android CoordinatorLayout使用](http://blog.csdn.net/xyz_lmn/article/details/48055919)
 
 2，[Android Design Support Library--TextInputLayout的使用](http://blog.csdn.net/wei_smile/article/details/51284964)
@@ -163,8 +191,8 @@ Material Design相关
 
 
 
-RecyclerView相关
--------
+<h2 name="12">RecyclerView相关</h2> 
+
 1，[Android RecyclerView 使用完全解析 体验艺术般的控件](http://blog.csdn.net/lmj623565791/article/details/45059587)
 
 2，[SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
@@ -177,8 +205,9 @@ RecyclerView相关
 
 
 
-自定义View相关
--------
+
+<h2 name="13">自定义View相关</h2> 
+
 1，[自定义View实现空调遥控器切换度数](http://blog.csdn.net/u012305710/article/details/51859542)
 
 2，[Android 2D绘图解析之 Canvas，Paint](http://blog.csdn.net/leejizhou/article/details/51524948)
@@ -190,8 +219,10 @@ RecyclerView相关
 5，[芝麻分曲线图](http://blog.csdn.net/qq199208/article/details/53196530)
 
 
-地图相关
--------
+
+
+<h2 name="14">地图相关</h2> 
+
 1，[百度地图](http://wiki.lbsyun.baidu.com/index.php?title=androidsdk)
 
 2，[高德地图](http://lbs.amap.com/api/android-sdk/summary/)
@@ -204,8 +235,9 @@ RecyclerView相关
 
 
 
-网络相关
--------
+
+<h2 name="15">网络相关</h2> 
+
 1，[Android文件图片上传的详细讲解（一）HTTP multipart/form-data 上传报文格式实现手机端上传](http://topmanopensource.iteye.com/blog/1605238)
 
 2，[从原理角度解析Android （Java） http 文件上传](http://blog.csdn.net/lmj623565791/article/details/23781773)
@@ -221,8 +253,9 @@ RecyclerView相关
 7，[Retrofit2 完全解析 探索与okhttp之间的关系](http://blog.csdn.net/lmj623565791/article/details/51304204)
 
 
-多线程与断点下载相关
--------
+
+<h2 name="16">多线程与断点下载相关</h2> 
+
 1，[android实现断点续传](http://blog.csdn.net/csh159/article/details/8442970)
 
 2，[开源安卓Http文件下载框架file-downloader的使用](http://www.cnblogs.com/wlfcolin/p/5001363.html)
@@ -236,8 +269,9 @@ RecyclerView相关
 6，[FileDownloader](https://github.com/lingochamp/FileDownloader)
 
 
-图表Chart相关
--------
+
+<h2 name="17">图表Chart相关</h2> 
+
 1，[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 2，[XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
@@ -247,8 +281,9 @@ RecyclerView相关
 4，[图表控件Jgraph](https://github.com/ZuYun/Jgraph)
 
 
-WebView相关
--------
+
+<h2 name="18">WebView相关</h2> 
+
 1，[WebView详解与简单实现Android与H5互调](http://blog.csdn.net/qq_24530405/article/details/52067474)
 
 2，[Android WebView 在开发过程中有哪些坑？](https://www.zhihu.com/question/31316646)
@@ -256,8 +291,9 @@ WebView相关
 3，[最全面的Android Webview详解](http://blog.csdn.net/carson_ho/article/details/52693322)
 
 
-Service与AIDL相关
--------
+
+<h2 name="19">Service与AIDL相关</h2> 
+
 1，[ Android四大组件——Service后台服务、前台服务、IntentService、跨进程服务、无障碍服务、系统服务](http://blog.csdn.net/qq_30379689/article/details/53318861)
 
 2，[Android的线程（Thread）和服务（Service）的区别](http://blog.csdn.net/u010963246/article/details/47660849)
@@ -265,14 +301,16 @@ Service与AIDL相关
 3，[Android：学习AIDL，这一篇文章就够了](http://blog.csdn.net/luoyanglizi/article/details/51980630)
 
 
-Socket相关
--------
+
+<h2 name="20">Socket相关</h2> 
+
 1，[Android 基于Socket的聊天室](http://www.cnblogs.com/-run/archive/2011/12/29/2306363.html)
 
 
 
-RxJava与Retorfit相关
--------
+
+<h2 name="21">RxJava与Retorfit相关</h2> 
+
 1，[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 2，[Android网络请求库 - Say hello to retrofit](http://blog.csdn.net/ghost_programmer/article/details/52372065)
@@ -282,15 +320,17 @@ RxJava与Retorfit相关
 4，[Retrofit用法详解](http://blog.csdn.net/duanyy1990/article/details/52139294)
 
 
-增量与热修复相关
--------
+
+<h2 name="22">增量与热修复相关</h2> 
+
 1，[Android 增量更新完全解析 是增量不是热修复](http://blog.csdn.net/lmj623565791/article/details/52761658)
 
 2，[一步步手动实现热修复](http://blog.csdn.net/sahadev_/article/details/53318251)
 
 
-Gradle相关
--------
+
+<h2 name="23">Gradle相关</h2> 
+
 1，[使用Gradle发布项目到JCenter仓库](http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2015/0227/2502.html)
 
 2，[Android 项目打包到 JCenter 的坑](http://blog.csdn.net/moonfish11/article/details/50573057)
@@ -298,15 +338,16 @@ Gradle相关
 3，[使用Android Studio发布开源库到Bintray/Jcenter](http://blog.csdn.net/qq_15003505/article/details/53113391)
 
 
-优化相关
--------
+
+<h2 name="24">优化相关</h2> 
+
 1，[Android布局优化](http://www.lightskystreet.com/2015/01/19/android-layout-optimize/)
 
 2，[Android 性能优化：使用 Lint 优化代码、去除多余资源](http://blog.csdn.net/u011240877/article/details/54141714)
 
 
-Kotlin相关
--------
+<h2 name="25">Kotlin相关</h2> 
+
 1，[让你的代码量减少3倍！使用kotlin开发](http://www.jianshu.com/p/dee0c89af727)
 
 2，[Kotlin搞起来系列](http://www.jianshu.com/p/0a052042b8cc)
