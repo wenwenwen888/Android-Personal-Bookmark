@@ -4,6 +4,7 @@
 
 一些学习网站
 -------
-1，[Android Blog 周刊](http://www.androidblog.cn/)
+1，[Android Blog 周刊](http://www.androidblog.cn/){:target="_blank"}
 
 2，<a href="http://www.androidblog.cn" target="_blank">Android Blog 周刊</a>
+
