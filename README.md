@@ -99,6 +99,8 @@
 
 4，[Scrollview 嵌套 RecyclerView 及在Android 5.1版本滑动时 惯性消失问题](http://www.itnose.net/detail/6319751.html)
 
+5，[Android实现自定义引导页，玩转ViewPager](http://www.jianshu.com/p/adb21180862a)
+
 
 
 <h2 name="6">线程相关</h2> 
@@ -165,6 +167,8 @@
 2，[MPermissions](https://github.com/hongyangAndroid/MPermissions)
 
 3，[Android 6.0运行时权限详解](http://blog.csdn.net/kong_gu_you_lan/article/details/52488097)
+
+4，[Android之动态申请权限（API23以上需求）](http://www.cnblogs.com/xmcx1995/p/5870191.html)
 
 
 
@@ -318,6 +322,12 @@
 3，[深入浅出RxJava](http://blog.csdn.net/lzyzsd/article/details/41833541/)
 
 4，[Retrofit用法详解](http://blog.csdn.net/duanyy1990/article/details/52139294)
+
+5，[Retrofit上传/下载文件扩展实现进度的监听](http://www.loongwind.com/archives/290.html)
+
+6，[Retrofit+Rxjava实现文件下载进度](http://www.jianshu.com/p/060d55fc1c82)
+
+7，[Retrofit2 - 如何从服务器下载文件](http://www.jianshu.com/p/92bb85fc07e8)
 
 
 
